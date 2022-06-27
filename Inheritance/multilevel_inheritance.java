@@ -17,7 +17,7 @@ class BabyDog extends Dog{
     
     public static void main(String[] args){
         
-        BabyDog babydog = new BabyDog(); //babydog object
+        BabyDog babydog = new BabyDog(); //babydog is object
         
         babydog.eat();
         babydog.sound();
