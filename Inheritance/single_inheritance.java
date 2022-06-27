@@ -7,7 +7,7 @@ class Engineer extends Employee{  // Derived/Sub/Child class
     
     public static void main(String[] args){
       
-        Engineer engineer = new Engineer(); 
+        Engineer engineer = new Engineer(); //engineer object
       
         System.out.printf("Engineer's salary: %d Tk.\n", engineer.salary);
         System.out.printf("Engineer's bonus: %d Tk.\n", engineer.bonus);
